@@ -70,5 +70,5 @@ Para ejecutar el análisis completo, sigue estos pasos:
 * Python
 * Pandas (para manipulación de datos)
 * Matplotlib (para visualización de datos)
-* seaborn
+* seaborn (para crear visualizaciones estadísticas atractivas)
 * Google Colab
